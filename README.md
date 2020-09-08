@@ -1,7 +1,6 @@
 # python
 python love
 ##  한글테스트 
-###  sadsad
-
+###  git에서 change
 
 
